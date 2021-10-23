@@ -3,7 +3,7 @@ Description=Ethereum Go client
 OnFailure=unit-status-mail@%n.service
 
 [Service]
-ExecStart=/usr/bin/geth --syncmode "light" --rpc
+ExecStart=/usr/bin/geth --syncmode "light" --http
 Restart=always
 RestartSec=30
 Type=simple
