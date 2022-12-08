@@ -6,7 +6,7 @@ attrdict==2.0.0
 backcall==0.1.0
 base58==1.0.0
 bumpversion==0.5.3
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 coincurve==7.1.0
